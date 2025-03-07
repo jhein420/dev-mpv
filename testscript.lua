@@ -1,0 +1,1 @@
+-- This script will be mainly for checking if mpv is using my scripts or not --
